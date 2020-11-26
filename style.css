@@ -9,7 +9,64 @@ body{
 }
 
 
-#heading{
+#heads{
 text-align: center;
 color: rgb(16, 182, 182);
+}
+
+/* calculator section */
+#calculator{
+    margin-top: 50px;
+    width: 350px;
+    height: 400px;
+/* background-color: rgb(0, 0, 0); */
+align-items: center;
+}  
+
+
+
+#display{
+    width: 295px;
+    height: 70px;
+background-color: #fff;
+font-size: 30px;
+border-radius: 10px;
+}
+
+button{
+    width: 70px;
+    height: 60px;
+    border-radius: 10px;
+    color: rgb(248, 135, 6);
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    /* border: none; */
+    /* outline: none; */
+}
+
+/* clearBtn div */
+#clearBtn{
+
+}
+.cl{
+
+}
+/* operatorBtn div */
+#operatorBtn{
+
+}
+.op{
+
+}
+/* numBTN div */
+#numBtn{
+
+}
+.num{
+
+}
+
+/* sumBtnb div */
+#sumBtn{
+
 }
