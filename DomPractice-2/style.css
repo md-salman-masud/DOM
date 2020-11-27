@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    /* padding-left: 300px; */
+    font-style: italic;
+    font-size: 60px;
+    color: indigo;
+}
+
+#parent{width: 630px;
+    height: 350px;
+    align-items: center;
+    border: 5px dashed rgb(5, 147, 241);
+    padding: 5px ;
+    /* margin-left: 350px; */
+}
+.chiled{
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 2px;
+    display: inline-block;
+    font-size: 20px;
+
+}
+.del{
+    margin-left: auto;
+}
+/* li:hover{
+background-color: rgb(0, 0, 0);
+border: 2px solid rgb(247, 4, 4);
+color: white
+}; */
